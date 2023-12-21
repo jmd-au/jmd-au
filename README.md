@@ -1,4 +1,4 @@
-# 👋
+# 👋 G'day
 
 I'm a cloud engineer, interested in tinkering on the web. Have done web-dev in the past.
 
